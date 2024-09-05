@@ -74,23 +74,15 @@ packages:
     source: hosted
     version: "2.1.3"
   flame:
-    dependency: "direct dev"
+    dependency: "direct main"
     description:
       name: flame
       sha256: e6873a8540a197a9bfe251e10c9e1f200329041d6e6d70df2cf38aa681cf2ef7
       url: "https://pub.dev"
     source: hosted
     version: "1.19.0"
-  flame_rive:
-    dependency: "direct dev"
-    description:
-      name: flame_rive
-      sha256: "6e01fae77d959f96852ff5c63e7a64f24206d40707c37cdc38ea0831ac0d2b8a"
-      url: "https://pub.dev"
-    source: hosted
-    version: "1.10.3"
   flame_spine:
-    dependency: "direct dev"
+    dependency: "direct main"
     description:
       name: flame_spine
       sha256: "0433a4c6a1b834c1812257f0fba85c57ee890dd73924c3637a835795923b2071"
@@ -115,19 +107,6 @@ packages:
     description: flutter
     source: sdk
     version: "0.0.0"
-  flutter_web_plugins:
-    dependency: transitive
-    description: flutter
-    source: sdk
-    version: "0.0.0"
-  graphs:
-    dependency: transitive
-    description:
-      name: graphs
-      sha256: "741bbf84165310a68ff28fe9e727332eef1407342fca52759cb21ad8177bb8d0"
-      url: "https://pub.dev"
-    source: hosted
-    version: "2.3.2"
   http:
     dependency: transitive
     description:
@@ -232,30 +211,6 @@ packages:
       url: "https://pub.dev"
     source: hosted
     version: "1.9.0"
-  plugin_platform_interface:
-    dependency: transitive
-    description:
-      name: plugin_platform_interface
-      sha256: "4820fbfdb9478b1ebae27888254d445073732dae3d6ea81f0b7e06d5dedc3f02"
-      url: "https://pub.dev"
-    source: hosted
-    version: "2.1.8"
-  rive:
-    dependency: transitive
-    description:
-      name: rive
-      sha256: ae75a6e9cfbf146630bfb1feba97ee582d935508be6b362e4bd197b9c55a6dd3
-      url: "https://pub.dev"
-    source: hosted
-    version: "0.12.4"
-  rive_common:
-    dependency: transitive
-    description:
-      name: rive_common
-      sha256: f4e20d0a99c5040c85624a3eb2b0b6b19e614d93a693c3bb25cf6e7bb2d3d6d3
-      url: "https://pub.dev"
-    source: hosted
-    version: "0.2.8"
   sky_engine:
     dependency: transitive
     description: flutter
